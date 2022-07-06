@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className='main'>
-        <button className='modal-btn' onClick={() => setModalActive(true)}>Открыть модальное окно</button>
+        <button className='main__modal-btn' onClick={() => setModalActive(true)}>Открыть модальное окно</button>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, ullam hic. Quam optio nobis sunt id laudantium asperiores quisquam ab deleniti amet aut. Nesciunt, fugiat exercitationem quia minus reprehenderit temporibus?
         Omnis, reiciendis laborum eos odit tempore ratione delectus quidem molestias deleniti sint natus nobis, quisquam et error praesentium culpa doloremque. Quo aliquam ipsum amet et laboriosam. Temporibus dicta libero modi?
         Aut quibusdam ipsum dolorum ea eaque at ad? Minus qui nihil commodi animi temporibus soluta architecto. Fuga odio placeat eaque nihil, voluptates ipsam asperiores maiores ullam, consequuntur, ex iure sapiente!
